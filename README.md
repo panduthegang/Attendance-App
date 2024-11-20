@@ -2,7 +2,7 @@
 <div align="center">
   <br />
     <a href="https://yourappurl.com" target="_blank">
-    <img src="public/ProjectBanner.png" alt="Project Banner">
+    <img src="/ProjectBanner.png" alt="Project Banner">
     </a>
   <br />
 
